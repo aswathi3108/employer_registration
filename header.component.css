@@ -1,0 +1,26 @@
+.btn {
+    background-color: teal;
+    color: #fff;
+    transition: all .7s;
+  }
+  .btn:hover {
+    color: teal;
+    background-color: #fff;
+    border-color: teal;
+  }
+label {
+    font-weight: 600;
+    color: #666;
+}
+body {
+  align-items: center;
+  background: #f1f1f1;
+  justify-content: center;
+}
+.box8{
+  box-shadow: 0px 0px 5px 1px white;
+}
+.mx-t3{
+  margin-top: -3rem;
+}
+
